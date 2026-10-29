@@ -1,0 +1,12 @@
+{
+  "name": "opportunity-maxing",
+  "version": "0.1.0",
+  "description": "A personal opportunity hunter that lives in your Google Workspace: jobs, scholarships, fellowships, hackathons, competitions, conferences and grants, verified, scored against your profile and tracked in a Sheet.",
+  "author": {
+    "name": "Ruvimbo Delia Hakata"
+  },
+  "homepage": "https://github.com/DeliaRudy/opportunity-maxing",
+  "repository": "https://github.com/DeliaRudy/opportunity-maxing",
+  "license": "MIT",
+  "keywords": ["opportunities", "scholarships", "hackathons", "jobs", "fellowships", "google-workspace", "tracker"]
+}

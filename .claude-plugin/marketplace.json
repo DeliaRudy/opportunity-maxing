@@ -1,0 +1,13 @@
+{
+  "name": "opportunity-maxing",
+  "owner": {
+    "name": "Ruvimbo Delia Hakata"
+  },
+  "plugins": [
+    {
+      "name": "opportunity-maxing",
+      "source": "./",
+      "description": "A personal opportunity hunter that lives in your Google Workspace."
+    }
+  ]
+}
